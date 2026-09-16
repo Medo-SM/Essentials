@@ -2,7 +2,7 @@
 Essentials suff I use daily in a comptuer  
 
 ## Applications  
-*IDE:* VSCode or VSCodium with extensions  (Theme: Catppuccin Mocha)  
+*IDE:* VSCode or VSCodium with extensions  (Theme: Catppuccin Mocha, Dracula at night), (Extension: CodeSnap, Easy Icon theme)  
 *Notes:* Obsidian (Theme: Obsidiante, Font: JetBrains Mono)  
 *Text editor:* NeoVim (With Lazy Vim)  
 *Shell:* Fish  

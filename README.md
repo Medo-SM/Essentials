@@ -12,6 +12,7 @@ Jupyter Notebook
 *Diagrams:* Draw.IO  
 *AI Agents:* OpenCode, Cluade Code  
 *Desktop Environment:* Tiling Window manager (Current favorite I3wm)   
+*Browser:* FireFox
 
 ## Scripts  
 *VPN:* OpenVPN.

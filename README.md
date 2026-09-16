@@ -11,7 +11,6 @@ Essentials suff I use daily in a comptuer
 Jupyter Notebook  
 *Diagrams:* Draw.IO  
 *AI Agents:* OpenCode, Cluade Code  
-*Desktop Environment:* Tiling Window manager (Current favorite I3wm)   
 *Browser:* FireFox
 
 ## Scripts  
@@ -28,4 +27,8 @@ echo "scale=2; ($V * $I) / 1000000000000" | bc
 ```
 ## Theme
 *Font:* JetBrains Mono, Nord (Whichever)  
-*Theme Color:* Rosepine, catppuccin Mocha (Whichever)  
+*Theme Color:* Rosepine, catppuccin Mocha (Whichever) 
+
+## OS / Desktop Environment
+*Top Bar:* Poly Bar  
+*App Launcher:* rofi  

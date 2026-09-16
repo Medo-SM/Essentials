@@ -11,6 +11,7 @@ Essentials suff I use daily in a comptuer
 Jupyter Notebook  
 *Diagrams:* Draw.IO  
 *AI Agents:* OpenCode, Cluade Code  
+*Desktop Environment:* Tiling Window manager (Current favorite I3wm)   
 
 ## Scripts  
 *VPN:* OpenVPN.

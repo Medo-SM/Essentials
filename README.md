@@ -30,5 +30,6 @@ echo "scale=2; ($V * $I) / 1000000000000" | bc
 *Theme Color:* Rosepine, catppuccin Mocha (Whichever) 
 
 ## OS / Desktop Environment
+*Desktop Environment:* I3wm  
 *Top Bar:* Poly Bar  
 *App Launcher:* rofi  

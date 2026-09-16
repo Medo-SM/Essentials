@@ -9,7 +9,7 @@ Essentials suff I use daily in a comptuer
 *Terminal:* Kitty  
 *Office:* LibreOffice (Heard *OpenOffice* is good enough)  
 Jupyter Notebook  
-
+*Diagrams:* Draw.IO  
 ## Scripts  
 *VPN:* OpenVPN.
 

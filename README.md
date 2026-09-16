@@ -10,6 +10,8 @@ Essentials suff I use daily in a comptuer
 *Office:* LibreOffice (Heard *OpenOffice* is good enough)  
 Jupyter Notebook  
 *Diagrams:* Draw.IO  
+*AI Agents:* OpenCode, Cluade Code  
+
 ## Scripts  
 *VPN:* OpenVPN.
 

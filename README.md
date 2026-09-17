@@ -11,7 +11,8 @@ Essentials suff I use daily in a comptuer
 Jupyter Notebook  
 *Diagrams:* Draw.IO  
 *AI Agents:* OpenCode, Cluade Code  
-*Browser:* FireFox
+*Browser:* FireFox  
+*Research Assistant:* Zotero  
 
 ## Scripts  
 *VPN:* OpenVPN.

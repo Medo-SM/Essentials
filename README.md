@@ -7,7 +7,7 @@ Essentials suff I use daily in a comptuer
 *Text editor:* NeoVim (With Lazy Vim)  
 *Shell:* Fish  
 *Terminal:* Kitty  
-*Office:* LibreOffice (Heard *OpenOffice* is good enough)  
+*Office:* LibreOffice (Heard *OnlyOffice* is good enough)  
 Jupyter Notebook  
 *Diagrams:* Draw.IO  
 *AI Agents:* OpenCode, Cluade Code  
